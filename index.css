@@ -1,0 +1,81 @@
+
+.carousel-item{
+    position: relative;
+
+}
+.carousel-caption{
+    position:absolute;
+    top:10%;
+    left: 7% !important;
+    text-align: left;
+}
+.carousel-caption h3 p{
+    text-align: left;
+    
+}
+
+.carousel-caption button{
+    color: #fff;
+    font-size: 15px;
+    padding: 10px 20px;
+    border-radius: 3px;
+    border:none;
+    background-color:#0067B8;
+}
+main{
+    margin:40px 0;
+}
+.card{
+    border: none !important;
+}
+#right-arrow{
+    font-size: 18px;
+    font-weight: bold;
+}
+#right-arrow:hover{
+    padding-left: 4px;
+}
+
+.card-body{
+    padding: 5px 0 !important;
+}
+.col-xl-3 .card{
+    gap: 20px;
+}
+.col-12 .card{
+ padding-left: 10px;
+ padding-right: 0;
+ 
+}
+.s-m-icon{
+    width: 25px;
+    margin: 5px;
+}
+footer{
+    background-color:#F2F2F2;
+    padding: 40px 0;
+}
+footer li{
+    list-style:none;
+    
+}
+
+footer a ,p{
+    color:#616161;
+    text-decoration: none;
+}
+footer a{
+  font-size: 13px;
+  
+}
+footer a:hover {
+text-decoration: underline;
+}
+.p-head{
+    font-weight: bold;
+    padding-left: 31px;
+}
+.footer-last{
+    justify-content: space-between;
+   
+}
